@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "800893451849",
+    "project_id": "mvvmlivedata3-kotlin",
+    "storage_bucket": "mvvmlivedata3-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800893451849:android:d84e9dd1a5d6becc2f8998",
+        "android_client_info": {
+          "package_name": "com.example.mvvmlivadatafirestore3_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800893451849-gujr9di6qcdachr9ge78usjh57rkn4bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mvvmlivadatafirestore3_kotlin",
+            "certificate_hash": "1dca7e5b45d2a41ae632c59f2d1c3f8f896e687e"
+          }
+        },
+        {
+          "client_id": "800893451849-71gili1utg87sp5713u6ucki9491lhm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBncNcvbgYInrpdhQpWeZ2ar3tigtT_EHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800893451849-71gili1utg87sp5713u6ucki9491lhm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
